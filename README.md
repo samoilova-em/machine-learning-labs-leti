@@ -12,11 +12,11 @@
 
 | № | Тема | Методы | Отчёт |
 |---|------|--------|-------|
-| 1 | **[lb_1](./lb_1/)** — Подготовка данных | Очистка, EDA, Feature Engineering | [PDF](./lb_1/report.pdf) |
-| 2 | **[lb_2](./lb_2/)** — Регрессия | Linear Regression, Ridge/Lasso, Polynomial | [PDF](./lb_2/report.pdf) |
-| 3 | **[lb_3](./lb_3/)** — Классификация | kNN, Logistic Regression, SVM, Decision Trees | [PDF](./lb_3/report.pdf) |
-| 4 | **[lb_4](./lb_4/)** — Кластеризация | K-Means, DBSCAN, Hierarchical Clustering | [PDF](./lb_4/report.pdf) |
-| 5 | **[lb_5](./lb_5/)** — Генетические алгоритмы | Эвристическая оптимизация | [PDF](./lb_5/report.pdf) |
+| 1 | **[lb1](./lb1/)** — Подготовка данных | Очистка, EDA, Feature Engineering | [PDF](./lb1/report.pdf) |
+| 2 | **[lb2](./lb2/)** — Регрессия | Linear Regression, Ridge/Lasso, Polynomial | [PDF](./lb2/report.pdf) |
+| 3 | **[lb3](./lb3/)** — Классификация | kNN, Logistic Regression, SVM, Decision Trees | [PDF](./lb_3/report.pdf) |
+| 4 | **[lb4](./lb4/)** — Кластеризация | K-Means, DBSCAN, Hierarchical Clustering | [PDF](./lb4/report.pdf) |
+| 5 | **[lb5](./lb5/)** — Генетические алгоритмы | Эвристическая оптимизация | [PDF](./lb5/report.pdf) |
 
 ---
 
